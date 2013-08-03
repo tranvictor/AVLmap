@@ -28,6 +28,7 @@
 		49CBAB8E17AAAF5300CCBEA4 /* avlmap */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = avlmap; sourceTree = BUILT_PRODUCTS_DIR; };
 		49CBAB9117AAAF5300CCBEA4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		49CBAB9317AAAF5300CCBEA4 /* avlmap.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = avlmap.1; sourceTree = "<group>"; };
+		49CBAB9A17AAAF6600CCBEA4 /* avlmap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = avlmap.h; path = ../../avlmap.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		49CBAB9017AAAF5300CCBEA4 /* avlmap */ = {
 			isa = PBXGroup;
 			children = (
+				49CBAB9A17AAAF6600CCBEA4 /* avlmap.h */,
 				49CBAB9117AAAF5300CCBEA4 /* main.cpp */,
 				49CBAB9317AAAF5300CCBEA4 /* avlmap.1 */,
 			);
@@ -216,6 +218,7 @@
 				49CBAB9917AAAF5300CCBEA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
