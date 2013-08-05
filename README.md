@@ -64,7 +64,7 @@ A unique feature of map among associative containers is that they implement the 
 Getting to use this AVLmap is simple, you just have to copy the header file from ```avlmap/avlmap.h``` to your header folder. That's it!
 
 # Testing
-A very simple test is provided in ```avlmap/main.cpp```. I planned to write more test with higher coverage using gtest. If anyone wants to write tests, please dont hesitate to make a pull request.
+A very simple test is provided in ```avlmap/main.cpp```. I planned to write more tests with higher coverage using gtest. If anyone wants to write tests, please dont hesitate to make a pull request.
 
 # License
 The MIT License (MIT)
